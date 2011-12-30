@@ -1,3 +1,4 @@
+root: /blog/
 permalink: /:month-:day-:year/:title.html
 
 # Theme settings
