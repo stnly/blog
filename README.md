@@ -1,6 +1,6 @@
 #Blog
 
-This is my blog page branch. Powered by Jekyll, it is for me to test out various blogging platforms to find my favourite .
+This is my blog page branch. Powered by Jekyll, it is for me to test out various blogging platforms to find my favourite.
 
 ##License
 
