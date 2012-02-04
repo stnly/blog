@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Declutter
-baseline: Declutter.
 tags: [life]
 ---
 For those in the know, I have shifted back home for around a month now. 

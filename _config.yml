@@ -11,7 +11,7 @@ theme:
   google_analytics_uid: 
 
   # Disqus shortname, for comments
-  disqus_shortname: 
+  disqus_shortname: stnly
 
   # Number of featured posts on homepage
   homepage_featured: 1

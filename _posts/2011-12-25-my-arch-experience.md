@@ -1,7 +1,6 @@
 ---
 layout: post
 title: My Arch Experience
-baseline: Arch.
 tags: [linux]
 ---
 Arch Linux is a rolling release distro whose main purpose is to be simple. So simple in fact that you have to install everything from scratch, even the desktop environment. This allows you to be left with a system that has no bloat whatsoever. Everything you need is installed by you and nothing is installed for you. 
