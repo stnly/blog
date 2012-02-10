@@ -4,4 +4,6 @@ This is my blog page branch. Powered by Jekyll, it is for me to test out various
 
 ##License
 
-Do whatever the hell you like.
+The Uncopyright License
+
+0.Do whatever the hell you like.
