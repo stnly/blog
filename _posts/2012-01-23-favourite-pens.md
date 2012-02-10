@@ -5,7 +5,7 @@ tags: [pen]
 ---
 I have developed a high standard for pens and paper recently. Such common items are easy to find and available almost everywhere, but good quality yet cheap pens are not.
 
-Returning back to studies, I found myself stocking up on pens. I have found 3 that I like and I am sharing it with the world. I recommend these as they are cheap and easy to find.
+Returning back to studies, I found myself stocking up on pens. I have found 4 that I like and I am sharing it with the world. I recommend these as they are cheap and easy to find.
 
 1. Uniball Jetstream.
 I have always been a fan of the all popular Uniball Signo DX. But, the rubber grip is slightly too high and thus, uncomfortable for long writing sessions. The Jetstream is made by the same company but it uses a different ink base. The Signo is a gel ink pen and the Jetstream is a ballpoint. Ballpoints dry faster and are cheaper to produce. However, they do not have a good ink flow, are more scratchy and tend to clot. The new formula in the Jetstream ink tries to combat these issues and the result is very good. You'll be surprised by how smooth it writes and the ink flow is constant. Dries very quickly and does not clot.
